@@ -10,7 +10,7 @@ body{
   color: #660000;
 }
 .back {
-  color: lightgreen;
+  color: green;
   
   /*裏側を少し透けるようにする*/
   opacity: 0.5;
