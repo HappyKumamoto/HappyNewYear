@@ -1,0 +1,17 @@
+body{
+    background-color: orange;
+    width:700px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+}
+
+.face {
+  color: #660000;
+}
+.back {
+  color: lightgreen;
+  
+  /*裏側を少し透けるようにする*/
+  opacity: 0.5;
+}
